@@ -1,5 +1,7 @@
 Change screen temperature and brightness with simple shortcuts (Linux) with unintrusive notifications
 
+Keywords: screen, dim, temperature, brightness, keyboard, shortcuts, script, program
+
 
 Iris micro protects your eyes.
 
